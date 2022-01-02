@@ -2,7 +2,7 @@
   "name": "dream",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gyuryhan.github.io/reactclass_habit-tracker",
+  "homepage": "https://gyuryhan.github.io/reactClass_habit-tracker",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@testing-library/jest-dom": "^5.16.1",
